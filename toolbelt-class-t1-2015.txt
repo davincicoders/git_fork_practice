@@ -5,6 +5,3 @@ This is line 4!
 Igor Shcherbak
 This is line 4!
 Anthony Falzetti
-
-
-
